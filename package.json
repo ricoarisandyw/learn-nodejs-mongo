@@ -1,0 +1,31 @@
+{
+  "name": "wtit",
+  "version": "1.0.0",
+  "description": "Untuk tugas kuliah WTIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricoarisandyw/wtit-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "wtit"
+  ],
+  "author": "Rico Arisandy Wijaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricoarisandyw/wtit-nodejs/issues"
+  },
+  "homepage": "https://github.com/ricoarisandyw/wtit-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.2",
+    "mongose": "0.0.2-security",
+    "mysql": "^2.15.0"
+  }
+}
